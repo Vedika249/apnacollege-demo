@@ -1,5 +1,5 @@
 # apnacollege-demo
 This is my first git Repository.
 <br>
-Author:Vedika Shivhare
+Author:Vedika (apna collge)
 changed
